@@ -1,0 +1,15 @@
+.card{
+  font-family: 'Courier New', Courier, monospace;
+}
+.card h1{
+  color: #00d8d6;
+    text-shadow: 10px 10px 20px #34e7e4;
+}
+.box{
+  /* box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px; */
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  padding: 5px;
+  font-family: 'Courier New', Courier, monospace;
+  margin: 0 20px;
+  margin-top: 5px;
+}

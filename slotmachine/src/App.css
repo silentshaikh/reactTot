@@ -1,0 +1,18 @@
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.head{
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  /* font-family: 'Lobster', cursive; */
+}
+.box{
+  font-family: 'Poppins', sans-serif;
+  background-color: aliceblue;
+  width: 450px;
+  padding: 2px 40px;
+  text-align: center;
+}

@@ -1,0 +1,31 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+  /* font-family: 'Lobster', cursive; */
+}
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+h1{
+  text-align: center;
+  padding-bottom: 30px;
+  color: #00d8d6;
+  text-shadow: 10px 10px 20px #34e7e4;
+  font-size: 2.5rem;
+}
+.box{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  padding: 10px 50px;
+}
+.box p{
+  color: #55efc4;
+  font-size: 4rem;
+}
